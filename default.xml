@@ -562,6 +562,10 @@
   <!-- Minimal OS Manifest -->
   <project path="platform_manifest" name="platform_manifest" remote="mo" revision="lp-mr1" />
   
+  <!-- Vendor And Deivce -->
+  <project path="device/mediatek/mt6582" name="rohantaneja/android_device_mediatek_mt6582" revision="cm-12.1" />
+  <project path="vendor/mediatek/mt6582" name="rohantaneja/android_vendor_mediatek_mt6582" revision="cm-12.1" />
+  
   <!-- Commented out paths -->
   <!-- <project path="external/powertop" name="android_external_powertop" remote="cm" revision="cm-12.1" />
   <project path="external/whispersystems/curve25519" name="android_external_whispersystems_curve25519-java" remote="cm" revision="cm-12.1" />
